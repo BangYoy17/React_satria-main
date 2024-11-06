@@ -34,5 +34,5 @@ const Color: FC<ColorProps> = ({ setWarna }) => {
     </div>
   );
 };
-
+// hhhhh
 export default Color;
